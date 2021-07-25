@@ -1,16 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class ShoesController : MonoBehaviour
 {
-    public GameObject Shoes1L;
-    public GameObject Shoes1R;
-    public GameObject Shoes2L;
-    public GameObject Shoes2R;
-
-    //public ShowShoes showshoes;
+    public List<GameObject> prefabs;
 
     // Start is called before the first frame update
     void Start()

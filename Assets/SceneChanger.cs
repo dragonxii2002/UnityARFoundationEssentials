@@ -5,9 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
-    public void ARShoes()
+    public void ARShoes1()
     {
-        SceneManager.LoadScene("HumanBodyTrackingShoes");
+        SceneManager.LoadScene("HumanBodyTrackingShoes1");
+    }
+    public void ARShoes2()
+    {
+        SceneManager.LoadScene("HumanBodyTrackingShoes2");
     }
     public void ARBodyDrawing()
     {
