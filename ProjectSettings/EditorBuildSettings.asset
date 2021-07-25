@@ -143,6 +143,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HumanBodyTrackingShoes1.unity
     guid: f0bf737a5ec8e4944b6a32d0b9771f13
+  - enabled: 1
+    path: Assets/Scenes/HumanBodyTrackingShoes2.unity
+    guid: e88c53804b67b644f9f0da75b6882d34
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2fb56d3c8ab68421eba0ecf360d08447,
       type: 2}

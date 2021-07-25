@@ -138,7 +138,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &67665932
 RectTransform:
   m_ObjectHideFlags: 0
@@ -794,8 +794,8 @@ MonoBehaviour:
   humanBodyTrackerText: {fileID: 849640089}
   humanBodyText: {fileID: 937905063}
   humanBoneControllerText: {fileID: 1538827044}
-  welcomePanel: {fileID: 67665931}
-  dismissButton: {fileID: 1718691374}
+  welcomePanel: {fileID: 0}
+  dismissButton: {fileID: 0}
   toggleOptionsButton: {fileID: 96616204}
   options: {fileID: 102932517}
   toggleDebug: {fileID: 117120078}
